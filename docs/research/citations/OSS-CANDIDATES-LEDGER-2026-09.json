@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://github.com/basicmachines-co/basic-memory",
+      "title": "Basic Memory",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 2,
+      "url": "https://github.com/basicmachines-co/basic-memory/blob/main/LICENSE",
+      "title": "Basic Memory LICENSE",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 3,
+      "url": "https://github.com/basicmachines-co/basic-memory/releases",
+      "title": "Basic Memory releases",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 4,
+      "url": "https://github.com/doobidoo/mcp-memory-service",
+      "title": "mcp-memory-service",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 5,
+      "url": "https://github.com/doobidoo/mcp-memory-service/blob/main/LICENSE",
+      "title": "mcp-memory-service LICENSE",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 6,
+      "url": "https://github.com/doobidoo/mcp-memory-service/releases",
+      "title": "mcp-memory-service releases",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 7,
+      "url": "https://github.com/tobi/qmd",
+      "title": "QMD",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 8,
+      "url": "https://github.com/tobi/qmd/blob/main/LICENSE",
+      "title": "QMD LICENSE",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 9,
+      "url": "https://github.com/tobi/qmd/releases",
+      "title": "QMD releases",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 10,
+      "url": "https://github.com/MemTensor/MemOS",
+      "title": "MemOS",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 11,
+      "url": "https://github.com/MemTensor/MemOS/blob/main/LICENSE",
+      "title": "MemOS LICENSE",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 12,
+      "url": "https://github.com/MemTensor/MemOS/releases",
+      "title": "MemOS releases",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 13,
+      "url": "https://github.com/Gentleman-Programming/engram",
+      "title": "Engram",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 14,
+      "url": "https://github.com/Gentleman-Programming/engram/blob/main/LICENSE",
+      "title": "Engram LICENSE",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 15,
+      "url": "https://github.com/Gentleman-Programming/engram/releases",
+      "title": "Engram releases",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 16,
+      "url": "https://github.com/edwin-hao-ai/Awareness-Local",
+      "title": "Awareness Local",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 17,
+      "url": "https://github.com/edwin-hao-ai/Awareness-Local/blob/main/LICENSE",
+      "title": "Awareness Local LICENSE",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 18,
+      "url": "https://github.com/edwin-hao-ai/Awareness-Local/releases",
+      "title": "Awareness Local releases",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 19,
+      "url": "https://github.com/zycaskevin/Vault-Agent-Memory",
+      "title": "Vault Agent Memory",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 20,
+      "url": "https://github.com/zycaskevin/Vault-Agent-Memory/blob/main/LICENSE",
+      "title": "Vault Agent Memory LICENSE",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 21,
+      "url": "https://github.com/zycaskevin/Vault-Agent-Memory/releases",
+      "title": "Vault Agent Memory releases",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 22,
+      "url": "https://github.com/radimsem/remindb",
+      "title": "remindb",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 23,
+      "url": "https://github.com/radimsem/remindb/blob/main/LICENSE",
+      "title": "remindb LICENSE",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 24,
+      "url": "https://github.com/radimsem/remindb/releases",
+      "title": "remindb releases",
+      "accessed": "2026-09-06"
+    }
+  ]
+}

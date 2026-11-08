@@ -1,0 +1,167 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://github.com/docling-project/docling",
+      "title": "",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 2,
+      "url": "https://docling-project.github.io/docling/usage/supported_formats",
+      "title": "",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 3,
+      "url": "https://docling-project.github.io/docling/concepts/chunking",
+      "title": "",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 4,
+      "url": "https://github.com/datalab-to/marker",
+      "title": "",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 5,
+      "url": "https://github.com/Unstructured-IO/unstructured",
+      "title": "",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 6,
+      "url": "https://docs.unstructured.io/open-source/ingestion/overview",
+      "title": "",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 7,
+      "url": "https://docs.unstructured.io/open-source/ingest/ingest-configuration/processor-configuration",
+      "title": "",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 8,
+      "url": "https://ragflow.io/docs",
+      "title": "",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 9,
+      "url": "https://github.com/infiniflow/ragflow",
+      "title": "",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 10,
+      "url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/website/versioned_docs/version-v0.27.1/guides/data_source/add_to_knowledge_base_and_sync.md",
+      "title": "",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 11,
+      "url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/website/versioned_docs/version-v0.27.1/guides/dataset/metadata_management.md",
+      "title": "",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 12,
+      "url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/website/versioned_docs/version-v0.27.1/administrator/migration/backup_and_migration.md",
+      "title": "",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 13,
+      "url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/website/versioned_docs/version-v0.27.1/guides/dataset/chunk_parsing_results_and_knowledge_fragment_management.md",
+      "title": "",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 14,
+      "url": "https://github.com/khoj-ai/khoj",
+      "title": "",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 15,
+      "url": "https://raw.githubusercontent.com/khoj-ai/khoj/master/documentation/docs/get-started/privacy-security.md",
+      "title": "",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 16,
+      "url": "https://raw.githubusercontent.com/khoj-ai/khoj/master/documentation/docs/get-started/setup.mdx",
+      "title": "",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 17,
+      "url": "https://raw.githubusercontent.com/khoj-ai/khoj/master/documentation/docs/data-sources/share_your_data.md",
+      "title": "",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 18,
+      "url": "https://github.com/Mintplex-Labs/anything-llm",
+      "title": "",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 19,
+      "url": "https://docs.anythingllm.com/beta-preview/active-features/live-document-sync",
+      "title": "",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 20,
+      "url": "https://docs.anythingllm.com/installation-desktop/storage",
+      "title": "",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 21,
+      "url": "https://docs.anythingllm.com/features/security-and-access",
+      "title": "",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 22,
+      "url": "https://docs.openwebui.com/features/workspace/knowledge",
+      "title": "",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 23,
+      "url": "https://docs.openwebui.com/features/chat-conversations/rag",
+      "title": "",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 24,
+      "url": "https://raw.githubusercontent.com/open-webui/open-webui/main/LICENSE",
+      "title": "",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 25,
+      "url": "https://github.com/The-Vibe-Company/quivr",
+      "title": "",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 26,
+      "url": "https://raw.githubusercontent.com/The-Vibe-Company/quivr/main/core/quivr_core/brain/brain.py",
+      "title": "",
+      "accessed": "2026-09-06"
+    },
+    {
+      "id": 27,
+      "url": "https://raw.githubusercontent.com/The-Vibe-Company/quivr/main/core/quivr_core/storage/local_storage.py",
+      "title": "",
+      "accessed": "2026-09-06"
+    }
+  ]
+}

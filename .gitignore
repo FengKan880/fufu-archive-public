@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+data/*.db
+data/*.db-*
+models/
+*.model
+*.pem
+*.key
+*.log
+dist/
+build/
+*.egg-info/
+.hermes/
+tmp/
+
+# Local experimental OAuth credentials; never stage or back up.
+.archive-codex-credentials.json

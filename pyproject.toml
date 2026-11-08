@@ -1,0 +1,44 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fufu-archive"
+version = "0.1.0"
+description = "Fufu Archive: an external long-term memory and knowledge base for AI agents"
+readme = "README.md"
+requires-python = ">=3.11"
+license = {text = "MIT"}
+authors = [{name = "Fufu Archive Contributors"}]
+dependencies = [
+  "fastapi>=0.110,<1.0",
+  "python-multipart>=0.0.9,<1.0",
+  "uvicorn[standard]>=0.27,<1.0",
+  "sqlite-vec>=0.1.9",
+]
+
+[project.optional-dependencies]
+chinese = ["jieba>=0.42.1,<1.0"]
+mcp = ["mcp>=1.0"]
+dev = [
+  "httpx>=0.27,<1.0",
+  "pytest>=8.0,<9.0",
+]
+
+[project.scripts]
+fufu-archive = "fufu_archive.main:run"
+fufu-archive-init-db = "fufu_archive.db:init_database_from_env"
+fufu-archive-doctor = "fufu_archive.doctor:main"
+fufu-archive-backup = "fufu_archive.backup:main"
+fufu-archive-run-once = "fufu_archive.task_runner:main"
+fufu-archive-refine = "fufu_archive.deterministic_refinement:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
